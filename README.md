@@ -1,2 +1,2 @@
 My first readme
-How are you doing 
+Updated read me 
